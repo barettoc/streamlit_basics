@@ -17,10 +17,10 @@ Follow the instructions here
 
 https://docs.streamlit.io/en/latest/getting_started.html#set-up-your-virtual-environment
 
-# Run code
+## Run code
 streamlit run first_app.py
 
-# Navigate to App
+## Navigate to App
   You will get a message similar to the following. 
   "You can now view your Streamlit app in your browser."
 
